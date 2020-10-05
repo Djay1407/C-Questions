@@ -1,4 +1,4 @@
-// solved - https://www.codechef.com/LTIME88B/problems/ROOTTREE
+// solved -https://www.codechef.com/LTIME88B/problems/ROOTTREE
 #include <bits/stdc++.h>
 typedef long long ll;
 #define pb push_back
