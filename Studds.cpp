@@ -1,4 +1,4 @@
-//solved - https://www.codechef.com/problems/SC_02
+//solved -https://www.codechef.com/problems/SC_02
 #include <bits/stdc++.h>
 typedef long long ll;
 #define pb push_back
